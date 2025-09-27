@@ -8,3 +8,6 @@ Proyecto académico desarrollado en PHP/MySQL (arquitectura MVC).
 
 ## Nota
 El código completo fue subido en formato ZIP debido a limitaciones técnicas con Git en la red.
+
+## Historia de Usuario 01
+Como jugador quiero registrarme para acceder a mis estadísticas.
